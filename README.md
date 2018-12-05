@@ -1,9 +1,6 @@
 # KazuaNet
 
-Research collaboration with Kiwoo Shin and Youngwook Paul Kwon.
+Moved to other github page due to name changed to RoarNet.
 
-We will upload our source code by end of September.
-
-Thank you.
-Kiwoo, Youngwook
+https://github.com/Kiwoo/RoarNet
 
